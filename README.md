@@ -1,1 +1,6 @@
 # FuzzierClocknxt
+how to install?
+
+```
+
+```
