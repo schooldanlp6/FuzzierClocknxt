@@ -10,3 +10,8 @@ gnome-extension FuzzierClocknxt@keepawayfromfire.co.ukmodbyDanLP6foracontainer
 ```
 
 lives on to its succesor Fuzzier Clock modded by DanLP6
+
+### it also starts with version 6
+why?
+
+The older gnome 44 compatible one had version 7. now the thing is more maintained by me so it gets another version scheme starting with 6.
