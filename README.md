@@ -14,4 +14,4 @@ lives on to its succesor Fuzzier Clock modded by DanLP6
 ### it also starts with version 6
 why?
 
-The older gnome 44 compatible one had version 7. now the thing is more maintained by me so it gets another version scheme starting with 6.
+The older gnome 44 compatible one had version 7. now the thing is more maintained by me so it gets another version scheme starting with 6. it also only really is compatible with gnome 46 and 47
